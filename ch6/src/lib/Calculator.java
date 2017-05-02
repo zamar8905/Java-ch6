@@ -1,3 +1,5 @@
+// Abstract class part
+
 package lib;
 
 public abstract class Calculator {
